@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウインド・ソング",
+  "base_artist": "ラブリーサマーちゃん",
+  "createdAt": "2026-02-20T12:06:12.689685Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウインド・ソング",
+      "artist": "ラブリーサマーちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_ウインド・ソング_ラブリーサマーちゃん.txt"
+    }
+  ]
+}
